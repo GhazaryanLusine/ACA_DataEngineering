@@ -1,0 +1,6 @@
+Booking_statusid,Booking_status
+1,Confirmed
+2,Waitlist
+3,Tentative
+4,Travel Agent Guarantee
+5,6 PM Release
