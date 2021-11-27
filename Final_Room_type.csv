@@ -1,0 +1,11 @@
+Roomtype_id,Roomtype,RT_Desc
+RT01,Single, A room assigned to one person. May have one or more beds.
+RT02,Double,A room assigned to two people. May have one or more beds.
+RT03,Triple,"A room that can accommodate three persons and has been fitted with three twin beds, one double bed and one twin bed or two double beds."
+RT04,Quad,A room assigned to four people. May have two or more beds.
+RT05,Queen,A room with a queen-sized bed. May be occupied by one or more people.
+RT06,King,A room with a king-sized bed. May be occupied by one or more people.
+RT07,Twin,A room with two twin beds. May be occupied by one or more people.
+RT08,Double-double,"A Room with two double ( or perhaps queen) beds. And can accommodate two to four persons with two twin, double or queen-size beds."
+RT09,Suite,A parlour or living room connected with to one or more bedrooms. (A room with one or more bedrooms and a separate living space.)
+RT10,Presidental Suite,"A president suite  has one or more bedrooms and a living space with a strong emphasis on grand in-room decoration, high-quality amenities and supplies, and tailor-made services (e.g. personal butler during the stay)."

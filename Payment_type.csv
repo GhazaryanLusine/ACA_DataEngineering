@@ -1,0 +1,8 @@
+Payment_type_id,Payment_type
+CA,Cash
+CH,Check
+CC,Credit Card
+DC,Debit Card
+PP,PayPal
+AlP,Alipay
+AP,Apple Pay

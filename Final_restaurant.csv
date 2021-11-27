@@ -1,0 +1,1001 @@
+Restaurant_id,Name,Cuisine Style,Rating
+R1,Dersett,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",5.0
+R2,Sapori Solari,"['Italian', 'Delicatessen', 'Wine Bar', 'European', 'Gluten Free Options']",4.5
+R3,Macelleria Equina Da Vito,"['Italian', 'Steakhouse', 'Mediterranean', 'Barbecue', 'Gluten Free Options']",4.5
+R4,VUN Andrea Aprea,"['Italian', 'Mediterranean', 'European', 'Contemporary', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R5,Contraste,"['Mediterranean', 'Italian', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R6,Seta,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R7,Piadineria Artigianale Pascoli,"['Italian', 'Fast Food', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R8,Iyo,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R9,Rizzocomeacasa Rizzo Come A Casa,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R10,Nerino Dieci Trattoria,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R11,L'Immagine Ristorante Bistrot,"['Steakhouse', 'Italian', 'Mediterranean', 'European', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R12,Boccondivino,"['Italian', 'Mediterranean', 'Wine Bar']",4.5
+R13,Da Vic - Ristorante Guerrini,"['Italian', 'Seafood', 'Mediterranean', 'Contemporary', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R14,Mr Panozzo,"['Italian', 'Pizza', 'Fast Food', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R15,Sapori Stellari,['Gluten Free Options'],5.0
+R16,MooKuzai,"['Sushi', 'Japanese', 'Asian', 'Fusion']",4.5
+R17,Piz,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R18,Bottega Sicula Milano,"['Mediterranean', 'Italian', 'Seafood', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R19,G.B. Bar,"['Italian', 'Bar', 'Cafe', 'Fast Food', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R20,Pizzium,"['Pizza', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R21,Ristorante Glauco,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'Gluten Free Options']",4.5
+R22,Pizza AM,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R23,Trippa,"['Italian', 'Gluten Free Options']",4.5
+R24,Il Principe dei Navigli,"['Italian', 'Pizza', 'Seafood', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R25,De Santis,"['Italian', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R26,Mi-Ramen Bistro Col di lana,"['Japanese', 'Asian', 'Fusion', 'Soups', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R27,Ristorante Parentesi,"['Italian', 'Mediterranean', 'Contemporary']",4.5
+R28,Savana Ristorante Eritreo,"['African', 'Ethiopian', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R29,Entree,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegan Options', 'Vegetarian Friendly']",4.5
+R30,Mani Bistrot,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Contemporary', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R31,Ristorante Omega 3,"['Italian', 'Seafood', 'Mediterranean', 'Gluten Free Options']",4.5
+R32,Nuovo Yacht,"['Italian', 'Mediterranean', 'Seafood', 'European', 'Soups', 'Gluten Free Options']",4.5
+R33,Panino LAB,"['Italian', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R34,Il Prime Milano,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R35,Nishiki,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R36,Pizzeria Snuppi,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R37,Ristorante Il Delfino,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Gluten Free Options']",4.5
+R38,Il Luogo di Aimo e Nadia,"['Italian', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R39,Essenza,"['Italian', 'Seafood', 'Mediterranean', 'European', 'International', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R40,Paranoia Cafe,"['Italian', 'Bar', 'Cafe', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R41,Cibario,"['Italian', 'Mediterranean', 'European', 'Street Food', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R42,Risoelatte,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R43,Ristorante Berton,"['Italian', 'Seafood', 'Mediterranean', 'European', 'International', 'Contemporary', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R44,Ristorante Sa Mesa,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R45,Beirut Ristorante,"['Lebanese', 'Mediterranean', 'Middle Eastern', 'Vegetarian Friendly', 'Vegan Options', 'Halal', 'Gluten Free Options']",4.5
+R46,Trattoria la Vecchia Guardia,"['Italian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R47,Il Panzerotto,"['Italian', 'Fast Food', 'Mediterranean', 'Vegetarian Friendly']",4.5
+R48,El Porteno,"['Steakhouse', 'Latin', 'Barbecue', 'Argentinean', 'South American', 'Gluten Free Options']",4.5
+R49,Burger Wave Colonne,"['American', 'Bar', 'Fast Food', 'Australian', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R50,Pasta d'Autore,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R51,Yokohama Flavour Journey Cuisine,"['Fusion', 'Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R52,Il Capestrano Ristorante Abruzzese,"['Barbecue', 'Italian', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R53,Platina,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R54,Trattoria de la Trebia,"['Steakhouse', 'Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R55,Alice Ristorante,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R56,Rita,"['Italian', 'Bar', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R57,Armani Bamboo Bar,"['Italian', 'Bar', 'European', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R58,Verace,"['Italian', 'Pizza', 'Fast Food', 'Mediterranean', 'Delicatessen', 'Gastropub', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R59,San Mauri,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R60,Trattoria Arlati dal 1936,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R61,Tre Cristi Milano,"['Seafood', 'Mediterranean', 'Italian', 'European', 'Vegan Options']",4.5
+R62,Faccio Cose Vedo Gente,"['Italian', 'Mediterranean', 'European', 'Wine Bar', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R63,Portobello,"['Italian', 'Pizza', 'Seafood', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R64,Poporoya Sushi Bar E Alimentari Giapponesi,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R65,Ristorante Pizzeria One Way della Speranza,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R66,Osteria Conchetta,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R67,Spazio,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R68,Noblesse Oblige,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R69,Botinero,"['Italian', 'Steakhouse', 'Seafood', 'Mediterranean', 'Argentinean', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R70,C'era una Volta una Piada,"['Italian', 'Fast Food', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R71,Sikelaia Ristorante,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",5.0
+R72,Gong Oriental Attitude,"['Chinese', 'Seafood', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R73,El Gaucho,"['Steakhouse', 'Latin', 'Barbecue', 'Argentinean']",4.0
+R74,Ristorante Nabucco,"['Italian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R75,Al Porto,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'Gluten Free Options']",4.5
+R76,Ristorante Xiongdi,"['Chinese', 'Japanese', 'Seafood', 'Sushi', 'Asian', 'Middle Eastern', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R77,El Porteno Arena,"['Steakhouse', 'Latin', 'Barbecue', 'Argentinean', 'South American', 'Gluten Free Options']",4.5
+R78,Toasteria Mi Casa,"['Fast Food', 'Italian', 'Cafe', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R79,Osteria Al Molo 13,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'Gluten Free Options']",4.5
+R80,Mao Hunan,"['Chinese', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R81,Ravioleria Sarpi,"['Chinese', 'Fast Food', 'Asian', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R82,Joia,"['Italian', 'European', 'Healthy', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R83,Guyot,"['Italian', 'Mediterranean', 'European', 'Wine Bar', 'Vegan Options', 'Gluten Free Options']",4.5
+R84,Vento di Sardegna,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R85,Ciaccia Coi Ciccioli,"['Delicatessen', 'Wine Bar', 'Mediterranean']",4.5
+R86,Da Zero,"['Pizza', 'Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R87,La Rava e la Fava,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R88,Da Salvatore Trattoria Siciliana,"['Italian', 'Seafood', 'Mediterranean', 'Delicatessen', 'Vegetarian Friendly']",4.5
+R89,Trattoria Bertame,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R90,Rossini Restaurant Pizzeria,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R91,Langosteria,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'Gluten Free Options']",4.5
+R92,Gli Orti Del Belvedere,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.5
+R93,Le Striatelle,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R94,Ristorante Pizzeria O' Surdato 'Nnammurato,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly']",4.5
+R95,La Collina d'Oro,"['Chinese', 'Japanese', 'Seafood', 'Sushi', 'Asian', 'Thai', 'Vietnamese', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R96,Il Politico,"['Italian', 'Fast Food', 'Vegetarian Friendly']",4.5
+R97,Galleria Restaurant & Pizza,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R98,Valentino Legend Milano,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R99,Casa Ramen,"['Japanese', 'Asian', 'Soups', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R100,La Prosciutteria Milano Brera,"['Delicatessen', 'Italian', 'Mediterranean', 'Wine Bar']",4.5
+R101,Ba Asian Mood,"['Chinese', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R102,La Parrilla Mexicana,"['Mexican', 'Latin', 'Central American', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R103,Osteria Fara,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R104,Barmare,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R105,Grigliamania,"['Italian', 'Seafood', 'Mediterranean', 'Barbecue', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R106,Noodle House,"['Seafood', 'Asian', 'Korean', 'Soups', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R107,"Osteria del Pesce ""Al Pontile""","['Seafood', 'Gluten Free Options']",4.5
+R108,Gallura,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Gluten Free Options']",4.5
+R109,La Rosa dei Venti,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R110,Sadler,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R111,Bem Brasil,"['Barbecue', 'South American', 'Brazilian', 'Latin']",4.5
+R112,Flower Burger,"['Fast Food', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R113,Hana Restaurant,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R114,Fukurou,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R115,Caminetti del Sempione,"['Mediterranean', 'Italian', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R116,Primonovecento Osteria,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R117,Mandarin 2,"['Chinese', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R118,The Brisket Milano,"['American', 'Steakhouse', 'Barbecue', 'Gluten Free Options']",4.5
+R119,Copacabana Temakeria - Brazilian Sushi,"['Japanese', 'Brazilian', 'Seafood', 'Sushi', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R120,Le Tournedos,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R121,Nectare,"['Mediterranean', 'Italian', 'Seafood', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R122,Tartufotto,"['Italian', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R123,Cantina della Vetra,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R124,Mes Amis,"['Mediterranean', 'Italian', 'Seafood', 'European', 'Vegetarian Friendly']",4.5
+R125,Pizzeria da Pino,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly']",4.5
+R126,Don Juan,"['Steakhouse', 'Latin', 'Barbecue', 'Argentinean', 'South American', 'Gluten Free Options']",4.0
+R127,Su Garden,"['Chinese', 'Asian', 'Thai', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R128,Limone Ristorante con Pizza,"['Sushi', 'Grill', 'Pizza', 'Seafood', 'Gluten Free Options', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R129,El Barbapedana,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.5
+R130,Ciaccia coi Ciccioli via Mora,"['Italian', 'Mediterranean', 'Delicatessen', 'Wine Bar']",4.5
+R131,La Pizzeria Marghe,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R132,The Friends Pub Milano,"['Italian', 'Bar', 'British', 'Pub', 'International', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R133,Delicatessen - L'Alto Adige a tavola,"['Italian', 'Austrian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R134,Pescetto,"['Italian', 'Seafood', 'Mediterranean', 'Gluten Free Options']",4.5
+R135,Je suis Jambon,"['Italian', 'Bar', 'European', 'Pub', 'Brew Pub', 'Vegetarian Friendly']",4.5
+R136,Ristorante Santa Virginia,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R137,Ingalera,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R138,Mamma Rosa Osteria Grill,"['Italian', 'Seafood', 'Mediterranean', 'Vegan Options', 'Gluten Free Options', 'Vegetarian Friendly']",4.5
+R139,Sushi Ran Bovisa,"['Chinese', 'Japanese', 'Sushi', 'Fusion', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R140,Serendib,"['Indian', 'Asian', 'Sri Lankan', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R141,Ribot,"['Italian', 'Steakhouse', 'Mediterranean', 'Barbecue', 'European', 'Gluten Free Options']",4.0
+R142,La cala,"['Italian', 'Seafood', 'Mediterranean']",4.5
+R143,La Taverna della Trisa,"['European', 'Vegetarian Friendly']",4.5
+R144,Il Solferino,"['Italian', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R145,Bomaki Sempione,"['Japanese', 'Brazilian', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R146,El Carnicero,"['Steakhouse', 'Latin', 'Barbecue', 'South American', 'Gluten Free Options']",4.5
+R147,Pizzeria Assaje,"['Pizza', 'Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R148,Piadineria Doppio Zero,"['Vegetarian Friendly', 'Vegan Options']",4.5
+R149,Andry,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R150,Shaolin State of Harmony - Raw Vegan,"['Healthy', 'Soups', 'Vegan Options', 'Vegetarian Friendly', 'Gluten Free Options']",5.0
+R151,Taverna degli Amici,"['Italian', 'Mediterranean', 'Barbecue', 'Gluten Free Options']",4.0
+R152,Ronchi78,"['Mediterranean', 'Italian', 'Vegetarian Friendly']",4.0
+R153,Zushi Milano Japanese Restaurants,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R154,Osteria Alla Grande,['Italian'],4.0
+R155,L'Antro della Sibilla,"['Seafood', 'Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R156,Isola dei Sapori,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R157,Sauris & Borc da Bria,"['Italian', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R158,Dawali,"['Lebanese', 'Mediterranean', 'Middle Eastern', 'Vegetarian Friendly', 'Vegan Options', 'Halal', 'Gluten Free Options']",4.0
+R159,Pizzeria Napulegna,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R160,Ristorante a'Riccione,"['Seafood', 'Mediterranean', 'Italian', 'Gluten Free Options']",4.0
+R161,Sciura Maria Panzerotti,"['Italian', 'Fast Food', 'Mediterranean', 'Street Food', 'Delicatessen', 'Vegetarian Friendly']",4.5
+R162,Raki,"['Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",5.0
+R163,La Bottarga,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R164,La Griglia di Varrone,"['Italian', 'Steakhouse', 'Mediterranean', 'Barbecue', 'European', 'International', 'Grill', 'Gluten Free Options']",4.0
+R165,Ristorante Da Oscar,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R166,Tram,"['Italian', 'Street Food', 'Fast Food']",4.5
+R167,Meat Art,"['Mediterranean', 'European', 'Gluten Free Options']",4.5
+R168,Osteria Caneva,"['Seafood', 'Soups', 'Italian', 'Mediterranean', 'Vegetarian Friendly']",4.5
+R169,Bomaki Foppa,"['Japanese', 'Brazilian', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R170,La Taverna,"['Italian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R171,Baobab Burger Organico,"['Italian', 'Bar', 'Vegetarian Friendly']",4.0
+R172,Ristorante Shannara2,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'Gluten Free Options']",4.5
+R173,Asola | Cucina Sartoriale,"['Italian', 'Seafood', 'Mediterranean', 'European', 'International', 'Contemporary', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R174,Osteria Brunello,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R175,Note di Cucina,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R176,Cacio e Pepe,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R177,Terrazza Gallia,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R178,Hostaria Borromei,"['Italian', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R179,Trattoria Sabbioneda,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R180,Angus and More,"['Fast Food', 'American', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R181,Trattoria Mibabbo,"['Italian', 'Mediterranean', 'Barbecue', 'Vegetarian Friendly']",4.0
+R182,Oficina do Sabor,"['South American', 'Brazilian', 'Barbecue']",4.5
+R183,Ristorante Ta Hua,"['Chinese', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R184,Trattoria Mirta,"['Italian', 'Mediterranean', 'International', 'Vegetarian Friendly']",4.0
+R185,Da Noi In,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R186,Da Puccini,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R187,Langosteria Bistrot,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Gluten Free Options']",4.0
+R188,Luini,"['Italian', 'Fast Food', 'Vegetarian Friendly']",4.0
+R189,Alba d'Oro,"['Italian', 'Mediterranean', 'International', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R190,Alhambra Risto Veg,"['Italian', 'Middle Eastern', 'International', 'Gastropub', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R191,Stella d'Asia,"['Chinese', 'Seafood', 'Asian', 'Healthy', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R192,Gesto Milano,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R193,Galeria Antica Trattoria,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R194,Bio Solaire,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R195,Greek Fusion,"['Fast Food', 'Mediterranean', 'Greek', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R196,Awash,"['African', 'Ethiopian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R197,Salsamenteria di Parma,"['Italian', 'Mediterranean']",4.0
+R198,Osteria Del Gnocco Fritto,"['Italian', 'Mediterranean']",4.0
+R199,La Cantina Del Giannone,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R200,Mamajuana Restaurant,"['Caribbean', 'Latin', 'South American', 'Colombian', 'Central American', 'Vegetarian Friendly']",4.5
+R201,Ristorante Antica Osteria Stendhal,"['Italian', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R202,Antica Pizzeria Leone,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R203,La Brisa,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R204,Non Solo Lesso,"['Italian', 'Mediterranean']",4.0
+R205,Giannasi 1967,"['Italian', 'Fast Food', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.5
+R206,Lacerba,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R207,La Locanda del Gatto Rosso,"['Italian', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R208,Basara Milano - Sushi Pasticceria,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R209,Belle Donne Bistrot,"['Italian', 'Mediterranean', 'Seafood', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R210,Bomaki Sanzio,"['Japanese', 'Brazilian', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R211,Conch,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R212,Bjork Swedish Brasserie & Side Store,"['European', 'Swedish', 'Scandinavian', 'Norwegian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R213,Osteria dell'Acquabella,"['Italian', 'Wine Bar']",4.0
+R214,Dawat - Indian Restaurant,"['Indian', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R215,Ceresio 7 Pools & Restaurant,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R216,Norman,"['Italian', 'American', 'Steakhouse', 'Pizza', 'Mediterranean', 'Barbecue', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R217,Burger Wave,"['American', 'Bar', 'Fast Food', 'Australian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R218,Albufera,"['Seafood', 'Mediterranean', 'Spanish', 'Vegetarian Friendly']",4.0
+R219,Temakinho Brera,"['Japanese', 'Brazilian', 'Sushi', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R220,Nordic Grill Milano,"['Italian', 'Steakhouse', 'Barbecue', 'Contemporary', 'Gluten Free Options']",4.0
+R221,Biif Burger Ham & Pizza,"['Italian', 'American', 'Pizza', 'Barbecue', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R222,Clotilde Bistrot,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R223,Ristorante Warsa,"['African', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R224,Osaka,"['Japanese', 'Sushi', 'Asian', 'Soups', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R225,Mun Fine Asian Kitchen,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R226,Filippo La Mantia,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R227,DAGLI AMICI DI PATTY,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R228,Lovster & Co,"['Italian', 'Seafood', 'European', 'Gluten Free Options']",4.0
+R229,Burger Bar,"['Italian', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R230,Casa Lodi,"['Italian', 'Mediterranean', 'European', 'Delicatessen', 'Gastropub', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R231,Rossopomodoro,"['Seafood', 'Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R232,Damm-Atra,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R233,BYS Milano,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R234,Pizzaclub No Limits,"['Pizza', 'Vegetarian Friendly']",4.0
+R235,La Prosciutteria Milano Navigli,"['Italian', 'Mediterranean', 'European']",4.5
+R236,Ciccio Pizza,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R237,Universo Vegano,"['Italian', 'Pizza', 'Fast Food', 'Healthy', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R238,MARGHE - Via Cadore,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R239,Al Paradiso della Pizza,"['Italian', 'Pizza', 'Vegetarian Friendly']",4.5
+R240,L'isola del tesoro,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R241,Osteria Al Portone,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.5
+R242,Baobab Organic Burger,"['Italian', 'American', 'Bar', 'Barbecue', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R243,The Meatball Family,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R244,Trotter,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R245,Sushi Li,"['Japanese', 'Seafood', 'Sushi', 'Asian']",4.5
+R246,Osteria di Brera,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R247,Osteria Della Via Appia,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R248,Osteria La Vecchia Lira,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R249,Just India,"['Indian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R250,Antica Osteria il Ronchettino,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R251,Ristorante Santo Bevitore,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R252,Langosteria Cafe Milano,"['Italian', 'Seafood', 'Mediterranean', 'Gluten Free Options']",4.0
+R253,Dongio',"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R254,Temakinho Navigli,"['Japanese', 'Brazilian', 'Seafood', 'Sushi', 'Asian', 'South American', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R255,Macelleria Equina Pellegrini,"['Italian', 'Steakhouse', 'Barbecue']",4.5
+R256,L'Oca Giuliva,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R257,Taglieri e Bicchieri,"['Italian', 'Mediterranean', 'European', 'Wine Bar', 'Brew Pub', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R258,Trattoria dei Magnani Al Cantinone,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R259,Da Cecco,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R260,"Sciura Maria Panzerotti Via Cenisio, 36","['Mediterranean', 'Italian', 'Fast Food', 'Delicatessen', 'Vegetarian Friendly']",4.5
+R261,L'Angolo di Casa,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R262,Zio Pesce,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'Gluten Free Options']",4.0
+R263,S.P.I.B. Pizza,"['Italian', 'Pizza', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R264,La Mongolfiera,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R265,Cantine Milano,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R266,Kisen,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R267,Nobu Milano,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R268,Trattoria del Pescatore,"['Italian', 'Seafood', 'Mediterranean', 'Gluten Free Options']",4.0
+R269,Hosteria della Musica,"['Italian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R270,Canter 1920,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R271,Locanda del Menarost,"['Italian', 'Vegetarian Friendly']",4.0
+R272,Maido,"['Japanese', 'Fast Food', 'Asian', 'Vegetarian Friendly']",4.0
+R273,Ristorante Piazza Repubblica,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R274,Al Conte Ugolino,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R275,Yang Sushi and Fusion,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R276,Cracco,"['Italian', 'European', 'Contemporary', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R277,Osteria Del Borgo Antico,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.5
+R278,Trattoria Bolognese da Mauro,"['Italian', 'Vegetarian Friendly']",4.0
+R279,Nottingham Forest Cocktail Bar,,4.0
+R280,a'Mare Restaurant,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Gluten Free Options']",4.0
+R281,SHIZEN Japanese Fusion Restaurant,"['Chinese', 'Japanese', 'Fusion', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R282,Ristorante Rifugio,"['Italian', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R283,Miscusi,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R284,Johnny Take Ue',"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R285,Izu,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Contemporary', 'Fusion', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R286,Piccolo Sogno,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Soups']",4.5
+R287,BistroBio,"['Italian', 'Delicatessen', 'Vegan Options', 'Gluten Free Options']",4.5
+R288,NUN Taste of Middle East,"['Lebanese', 'Fast Food', 'Mediterranean', 'Middle Eastern', 'Israeli', 'Vegetarian Friendly', 'Vegan Options', 'Halal']",4.0
+R289,Enoteca Regionale Lombarda,"['Italian', 'Mediterranean', 'European', 'Wine Bar', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R290,Wang Jiao Milano,"['Chinese', 'Seafood', 'Asian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R291,Zio Pesce,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'Gluten Free Options']",4.0
+R292,Ham Holy Burger,"['Italian', 'American', 'Fast Food', 'Barbecue', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R293,Unico Milano,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R294,Maio Restaurant,"['Italian', 'Mediterranean', 'European', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R295,Convivium,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R296,Noi Pesce,"['Italian', 'Seafood', 'Asian', 'Fusion', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R297,Bottega del Ramen,"['Japanese', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R298,Piano,"['Italian', 'Delicatessen', 'Gastropub', 'Street Food', 'Vegetarian Friendly']",4.5
+R299,ALventicinque,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.5
+R300,la bettola di piero,['Italian'],4.0
+R301,Ristorante i Tesori del Mare,"['Italian', 'Seafood', 'Mediterranean']",4.5
+R302,Blue Ginger,"['Chinese', 'Japanese', 'Sushi', 'Asian', 'Thai', 'Vietnamese', 'Soups', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R303,Joe Cipolla,"['Italian', 'Steakhouse', 'Barbecue', 'Gluten Free Options']",4.0
+R304,Innocenti Evasioni,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R305,Arepa'z,"['Latin', 'Venezuelan', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R306,Mag Cafe,"['Bar', 'Cafe', 'International']",4.0
+R307,Barbacoa,"['Brazilian', 'Barbecue', 'South American', 'Gluten Free Options']",4.0
+R308,Finger's Garden,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R309,Azzurra Grill,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R310,Trattoria del Nuovo Macello,"['Italian', 'Vegetarian Friendly']",4.0
+R311,Hamerica's Milano Ticinese,"['American', 'Bar', 'Fast Food', 'Barbecue', 'Central American']",4.0
+R312,La Bracioleria,"['Italian', 'Mediterranean', 'Barbecue', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R313,Antica Trattoria Salutati,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R314,Ristorante La Cantinetta,"['Italian', 'Steakhouse', 'Mediterranean', 'Barbecue', 'Grill']",4.0
+R315,Tropi & Co Pizza Club,"['Pizza', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R316,Nu,"['Chinese', 'Japanese', 'Seafood', 'Sushi', 'Asian', 'Vietnamese', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R317,Bianca,"['Italian', 'Seafood', 'Mediterranean', 'European']",4.5
+R318,Da Giannino - L'angolo d'Abruzzo,"['Italian', 'Mediterranean', 'Contemporary', 'Vegetarian Friendly']",4.0
+R319,Osteria da Zio Nini Friggitoria,"['Italian', 'Seafood', 'Mediterranean', 'Soups']",4.0
+R320,Paper Moon,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R321,Mu Sushi Fusion Restaurant,"['Chinese', 'Japanese', 'Seafood', 'Sushi', 'Middle Eastern']",4.5
+R322,Stravagario Bistrot,"['Italian', 'Mediterranean', 'European']",4.5
+R323,La Taverna dei Golosi,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R324,Mama Rosa,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R325,Ristorante Ampere 57,"['Italian', 'Seafood', 'Mediterranean']",4.5
+R326,Al coniglio bianco,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R327,Al Garghet,"['Italian', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R328,GAM Bistrot Coreano,"['Asian', 'Korean', 'Vegetarian Friendly']",4.0
+R329,Finger's,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R330,Posto di conversazione,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R331,La Quarta Carbonaia,"['Italian', 'Steakhouse', 'Mediterranean', 'Barbecue', 'Gluten Free Options']",4.0
+R332,Antica pizza fritta da zia Esterina Sorbillo,['Pizza'],4.0
+R333,Le vent du nord,"['Belgian', 'Bar', 'Seafood', 'European']",4.0
+R334,Trattoria Caprese Milano Cassala,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R335,Maison Milano,"['Italian', 'Bar', 'Seafood', 'Mediterranean', 'European', 'Spanish', 'Pub', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R336,Amici della Pizza,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R337,Solo Pizza Cafe,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R338,Seven,"['Italian', 'Steakhouse', 'Barbecue', 'Grill', 'Gluten Free Options']",4.0
+R339,Amalfitana,"['Italian', 'Vegetarian Friendly']",4.5
+R340,La Coccinella,"['Italian', 'Pizza', 'Vegetarian Friendly']",4.5
+R341,Savini Tartufi Truffle Restaurant,"['Italian', 'Vegetarian Friendly']",4.5
+R342,Tano Passami L'olio,"['Italian', 'Seafood', 'European', 'Mediterranean']",4.5
+R343,ITAshi,"['Italian', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R344,Manhattan,"['Italian', 'Bar', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R345,Pizzeria di Porta Garibaldi,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R346,Osteria al 55,"['Italian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R347,Osteria Italiana,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R348,Izakaya Sampei,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R349,Il Tavolino,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R350,Nero 9,['Italian'],5.0
+R351,Piaceri Di Patata,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R352,Sant'Eustorgio,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R353,CIZ Cantina e Cucina,"['Italian', 'Seafood', 'Mediterranean', 'Contemporary', 'Vegetarian Friendly']",4.5
+R354,Pasta B Jinghua,"['Chinese', 'Asian', 'Thai', 'Singaporean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R355,Cafe Madeira Milano,"['Bar', 'Mediterranean', 'Pub', 'Italian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R356,Vala Banco e Cucina,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R357,Copacabana Brazilian Sushi,"['Japanese', 'Brazilian', 'Sushi', 'Fusion', 'South American', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R358,Trulli Love,"['Italian', 'Contemporary', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R359,Bon Thon - Fish & Cocktails,"['Italian', 'Seafood', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R360,Arrow's,"['Italian', 'Seafood', 'Mediterranean', 'European']",4.0
+R361,Be Bop,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R362,Osteria della Stazione L'Originale,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R363,Armani Ristorante,"['Italian', 'Seafood', 'European', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R364,Olei,"['Mediterranean', 'Seafood', 'European', 'Vegetarian Friendly']",4.5
+R365,Bicerin Milano,"['Mediterranean', 'European', 'Wine Bar', 'Vegetarian Friendly']",4.5
+R366,Jam Grill House,"['Italian', 'Steakhouse', 'Grill', 'Gluten Free Options']",4.0
+R367,Panzarotti,"['Italian', 'Fast Food', 'Delicatessen', 'Pub', 'Gastropub', 'Street Food', 'Vegetarian Friendly']",4.5
+R368,Acanto Restaurant,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R369,Mizuki,"['Chinese', 'Japanese', 'Seafood', 'Sushi', 'Vegetarian Friendly']",4.0
+R370,5th Avenue,"['Italian', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R371,La Taverna Gourmet,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R372,La Taverna Ristorante & Pizzeria Napoletana,"['Italian', 'Pizza']",4.0
+R373,Chic'n Quick Trattoria Moderna,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R374,La Dogana del Buongusto,"['Italian', 'Mediterranean', 'European', 'Wine Bar', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R375,Prog,,4.5
+R376,Bussarakham,"['Asian', 'Thai', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R377,Al Pulentin,"['Italian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R378,Restaurant Pizzeria Maruzzella,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R379,Muu House - Steak & Grain,"['Italian', 'Steakhouse', 'Pizza', 'Barbecue', 'Gluten Free Options']",4.0
+R380,Un'Altra Pasta,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R381,Bab,"['Asian', 'Soups', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R382,Kate Away,"['Italian', 'Cafe', 'Delicatessen', 'Contemporary', 'Street Food', 'Vegetarian Friendly']",5.0
+R383,San Glicerio 1,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R384,La Perla d'Oro,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R385,Ham Holy Burger,"['Italian', 'American', 'Bar', 'Fast Food', 'Barbecue', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",3.5
+R386,Al 395,['Italian'],4.0
+R387,Ham Holy Burger,"['Bar', 'Fast Food', 'Barbecue', 'European', 'Pub', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R388,Thai Gallery,"['Asian', 'Thai', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R389,Burn I Macellai,"['Italian', 'Steakhouse', 'Gluten Free Options']",4.0
+R390,Trattoria della Gloria,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R391,Al Valentino,"['Mediterranean', 'Italian', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R392,Al Pont de Ferr,"['Italian', 'Mediterranean', 'Contemporary', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R393,Bice,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R394,Carlo e Camilla in Segheria,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R395,Trattoria Masuelli San Marco,"['Italian', 'Vegetarian Friendly']",4.0
+R396,Ristorante Manna,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R397,LUME,"['Italian', 'International', 'Mediterranean', 'Contemporary', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R398,Al Cuoco di Bordo,"['Italian', 'Seafood', 'Mediterranean', 'Soups']",4.0
+R399,Pane e Vino,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R400,DOU Asian Passion,"['Chinese', 'Asian', 'Thai', 'Fusion', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R401,Maison Bretonne,"['French', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R402,Montecristo,"['Italian', 'Seafood', 'Mediterranean']",4.5
+R403,Fish Dancer,"['Italian', 'Seafood', 'Mediterranean', 'Soups']",4.0
+R404,Ristorante Daniel,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Contemporary', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R405,Burger Prime Bar,"['Italian', 'American', 'Bar', 'Fast Food', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R406,Sciatt a Porter,"['Italian', 'Vegetarian Friendly']",4.0
+R407,Bracelleria Osteria & Macelleria,['Italian'],4.0
+R408,Ristorante Pier 52,"['Seafood', 'Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R409,Dim Sum,"['Chinese', 'Seafood', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R410,Sumire,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Fusion', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R411,Nonna Maria Osteria,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R412,Prime One Seven,"['Italian', 'American', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R413,La Pizzeria Nazionale,"['Italian', 'Pizza', 'Vegetarian Friendly']",4.0
+R414,Oren,"['Chinese', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R415,Ristorante Shri Ganesh,"['Indian', 'Asian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R416,Al Padellone,"['Italian', 'Steakhouse', 'Pizza', 'Mediterranean', 'Barbecue']",4.0
+R417,Bottega Valtellina 18,"['Italian', 'Pizza', 'Mediterranean', 'Grill', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R418,Volemose Bene,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R419,Ristorante Basilio,"['Mediterranean', 'Italian', 'Seafood', 'Gluten Free Options']",4.5
+R420,Tigella's,"['Italian', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R421,Osteria la Bistecca,"['Italian', 'Steakhouse', 'Mediterranean', 'Barbecue']",4.0
+R422,Il Secco,"['Italian', 'Wine Bar', 'Vegetarian Friendly']",4.5
+R423,Osteria Carbonaia Mare,"['Italian', 'Seafood', 'Mediterranean', 'Gluten Free Options']",4.5
+R424,Don Juanito,"['South American', 'Steakhouse', 'Seafood', 'Argentinean', 'Gluten Free Options']",4.0
+R425,Il Salumaio di Montenapoleone,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R426,Ristorante Yazawa Milano,"['Japanese', 'Barbecue']",4.5
+R427,Napoli 1820,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R428,Namaste,"['Indian', 'Asian', 'Nepali', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R429,Maoji,"['Chinese', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R430,Macha Cafe,"['Japanese', 'Cafe', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R431,Pane al Pane Vino al Vino,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R432,L'Angolo Nascosto,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Gluten Free Options']",4.5
+R433,Balafon,['African'],4.5
+R434,Caputo Pizzeria Ristorante,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R435,The Kitchen,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R436,Ghea,"['Italian', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R437,Il Tegamino,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R438,La Pesa Trattoria 1902,['Italian'],4.0
+R439,Ristorante Enrico Bartolini,['Vegetarian Friendly'],5.0
+R440,a' Riccione Bistrot,"['Italian', 'Seafood', 'Mediterranean', 'Gluten Free Options']",4.0
+R441,Movida,"['Italian', 'Bar', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R442,Il Faro,"['Italian', 'Seafood', 'Mediterranean']",4.0
+R443,La Sidreria,"['Italian', 'Contemporary', 'Vegetarian Friendly']",4.0
+R444,Pizzeria Cinder Mount,"['Italian', 'Pizza', 'European', 'Mediterranean', 'Vegetarian Friendly']",4.5
+R445,Birrificio Lambrate,"['Italian', 'Bar', 'Pub', 'Brew Pub']",4.0
+R446,Latteria della Darsena,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R447,Mykonos Ristorante Greco,"['Mediterranean', 'Greek', 'Vegetarian Friendly']",4.0
+R448,Fujiyama Sushi bar,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Fusion', 'Gluten Free Options']",4.5
+R449,La Risacca Blu,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'Vegetarian Friendly']",4.5
+R450,Bosco Verticale Restaurant Milano,['Italian'],5.0
+R451,Osteria Il Riccio di Mare,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Gluten Free Options']",4.0
+R452,Sushi Art,"['Japanese', 'Seafood', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R453,Ristorante Boccino,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R454,Da Giordano il Bolognese,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R455,L'Isola 56 - Tasting House,"['Italian', 'Seafood', 'Mediterranean', 'Wine Bar']",4.5
+R456,La Ratera,"['Italian', 'Pizza', 'Contemporary', 'Brew Pub', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R457,Ristorante San Glicerio 2,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly']",4.0
+R458,Antica Trattoria Monlue,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R459,SlowSud,"['Italian', 'Gastropub', 'Street Food', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R460,Il Liberty,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Contemporary', 'Vegetarian Friendly']",4.0
+R461,Stelvio,"['Italian', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R462,Il Cortiletto dell'Alzaia 56,"['Italian', 'Mediterranean', 'Contemporary', 'Vegetarian Friendly']",4.5
+R463,Zen Sushi Restaurant,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Vegetarian Friendly']",4.0
+R464,Felix Lo Basso Restaurant,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R465,Premiato Forno Cantoni,"['Italian', 'Mediterranean', 'Barbecue', 'European', 'Vegetarian Friendly']",4.0
+R466,Pasta Fresca da Giovanni,"['Italian', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R467,la Pida se' Parsot,"['Italian', 'Fast Food', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R468,Seoul Ristorante Coreano,"['Asian', 'Korean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R469,Mantra Raw Vegan,"['Healthy', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R470,PreTesto,"['Italian', 'Mediterranean', 'Barbecue', 'Vegetarian Friendly']",4.0
+R471,Bufalatte,"['Delicatessen', 'Street Food', 'Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",5.0
+R472,Berbere Milano,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R473,Osteria La Piola,"['Italian', 'International', 'Vegetarian Friendly']",4.0
+R474,All American Diner,"['Italian', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R475,Baja Sardinia,"['Italian', 'Pizza', 'Seafood', 'Mediterranean']",4.0
+R476,Spontini - Duomo,"['Pizza', 'Vegetarian Friendly']",4.0
+R477,Trattoria Sole,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R478,Ristorante Settembrini 18,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R479,Il Kaimano,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R480,Pizzium - Via Anfossi,"['Italian', 'Pizza', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R481,Massawa,"['African', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R482,Shambala,"['Asian', 'Thai', 'Vietnamese', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R483,WellKome,['Japanese'],4.5
+R484,Cheese,"['Italian', 'Bar', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R485,Corallium Milano Ristorante,"['Italian', 'Seafood', 'Mediterranean']",4.5
+R486,Henry's Cafe,"['Italian', 'Bar', 'Pub', 'Vegetarian Friendly']",4.5
+R487,Don Raffaele,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Grill', 'Vegetarian Friendly']",4.0
+R488,Globe,"['Italian', 'Bar', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R489,Grape Ristorante Salentino,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.5
+R490,ATMosfera,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.5
+R491,Al Grissino,"['Italian', 'Seafood', 'Mediterranean', 'Soups']",4.0
+R492,Ristorante Lungomare,"['Seafood', 'Vegetarian Friendly']",4.5
+R493,Sette Cucina Urbana,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R494,Il Ristorantino della Carne,"['Italian', 'Gluten Free Options']",4.0
+R495,Officina 37,"['Italian', 'Seafood', 'Mediterranean', 'Barbecue', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R496,Brasserie Mediterranea,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R497,Taiyo,"['Chinese', 'Japanese', 'Seafood', 'Sushi', 'Asian', 'Fusion', 'Vegetarian Friendly']",4.0
+R498,Sakeya The House of Sake,"['Japanese', 'Sushi', 'Vegetarian Friendly']",4.5
+R499,Pizzeria Loredani,"['Pizza', 'Vegetarian Friendly']",5.0
+R500,Rosso Brera,"['Italian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R501,Shiva,"['Indian', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R502,Ristorante Pizzeria Rosy e Gabriele,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R503,Luna Rossa,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R504,L'Altra Taverna,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R505,Omacase,"['Japanese', 'Sushi', 'Seafood', 'Soups', 'Vegetarian Friendly']",4.5
+R506,Antica Hostaria della Lanterna,"['Italian', 'Mediterranean']",4.0
+R507,El Brellin,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R508,Zhen Asian Fusion Restaurant,"['Chinese', 'Japanese', 'Fusion', 'Vegetarian Friendly']",4.5
+R509,BIM Coreano,"['Asian', 'Korean', 'Vegetarian Friendly']",4.5
+R510,Capuano's,['Italian'],4.5
+R511,Drogheria Milanese,"['Italian', 'Mediterranean', 'Gastropub', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R512,Yuzu,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R513,Salsamenteria di Parma,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R514,Obica Mozzarella Bar - Duomo,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R515,Pizzeria del Ponte,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R516,Da Regina,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R517,Wu,"['Chinese', 'Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Fusion', 'Vegetarian Friendly']",4.0
+R518,Famoso Fusion,"['Chinese', 'Japanese', 'Seafood', 'Sushi', 'Asian', 'Thai', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R519,Amabile,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R520,Bacaro Navigli,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R521,Ristorante Orientale Hong Kong Crossover,"['Japanese', 'Chinese', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R522,Mujio Cafe,"['Italian', 'Mediterranean', 'Wine Bar', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R523,Caffe Napoli - Duomo,,4.5
+R524,Pampas,"['Brazilian', 'Latin', 'Barbecue']",4.0
+R525,San Mina,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R526,Monopoli,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R527,Osteria la Tabina,['Italian'],4.0
+R528,Casa Dei Ciliegi,"['Italian', 'Steakhouse', 'Mediterranean', 'Barbecue', 'European', 'Vegetarian Friendly']",4.0
+R529,Cantine Isola,['Wine Bar'],4.5
+R530,Il Pierrot Di Garofalo,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Barbecue', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R531,Ostriche & Vino,"['Italian', 'French', 'Seafood', 'Mediterranean', 'European', 'Gluten Free Options']",4.0
+R532,Pizzeria Fusco,"['Pizza', 'Vegetarian Friendly']",4.5
+R533,Mami Cafe,"['Japanese', 'Seafood', 'Sushi']",4.5
+R534,Kungfu Bao,"['Chinese', 'Vegetarian Friendly']",4.5
+R535,Taverna Greca Rebetiko,"['Greek', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R536,La Gravina,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R537,Naxos,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.5
+R538,Don Carlos Restaurant,"['Italian', 'Mediterranean', 'European', 'Contemporary', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R539,Il Mosto Selvatico,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R540,Rock Burger Milano,"['American', 'Bar', 'Barbecue', 'Vegetarian Friendly']",4.0
+R541,Fish Kome,"['Chinese', 'Japanese', 'Sushi', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R542,Sicilia Bedda,"['Italian', 'Vegetarian Friendly']",4.5
+R543,Ristorante Pizzeria Sabatini,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R544,Bello Tosto Trendy Toast,"['Italian', 'Fast Food', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R545,Osteria dei Malnat,"['Italian', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R546,Tiraboschi 6,"['Italian', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R547,La Plancia,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R548,Kanji EVO,"['Japanese', 'Sushi', 'Vegetarian Friendly']",4.0
+R549,Osteria la bis Bistecca,"['Italian', 'Steakhouse', 'Mediterranean', 'Barbecue']",4.0
+R550,Drinc,['Italian'],4.5
+R551,Caterina Cucina e Farina,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R552,Cow Burger,"['American', 'Fast Food']",4.5
+R553,Ristorante Aladino,"['Middle Eastern', 'Lebanese', 'Barbecue', 'Arabic', 'Vegetarian Friendly', 'Vegan Options', 'Halal']",4.0
+R554,Don Lisander,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R555,Casa Lucia,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",3.5
+R556,Martinique Grill,"['Brazilian', 'Barbecue', 'South American']",4.0
+R557,Tigella's,"['Italian', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R558,Antica Osteria Cavallini,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R559,La Veranda,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R560,Wang Jiao,"['Chinese', 'Seafood', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R561,Solo Pizza,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R562,Burger Wave San Marco,"['Australian', 'Fast Food', 'Vegetarian Friendly']",4.0
+R563,Miyama,"['Japanese', 'Sushi', 'Fusion', 'Vegetarian Friendly']",4.0
+R564,Fiore,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R565,Lungo la Notte,"['Italian', 'Mediterranean', 'Barbecue']",4.5
+R566,Nara Sushi Restaurant,"['Chinese', 'Japanese', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Gluten Free Options']",3.5
+R567,DeRos,"['Italian', 'Mediterranean', 'European', 'Seafood', 'Vegetarian Friendly']",4.5
+R568,Pescheria Spadari,"['Italian', 'Seafood', 'Mediterranean', 'Delicatessen', 'Street Food']",4.0
+R569,Osteria Delbinari,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R570,Pizzeria Tradizionale,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R571,Osteria del biliardo,"['Italian', 'European', 'Vegetarian Friendly']",4.0
+R572,Tsuru Sushi,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly']",4.0
+R573,Fei Yun Ge,"['Italian', 'Chinese', 'Japanese', 'Seafood', 'Vegetarian Friendly']",4.5
+R574,Ristorante Pizzeria Maruzzella,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R575,Obica Mozzarella Bar - Brera,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",3.5
+R576,Ristorante L'Essenziale,"['Italian', 'Mediterranean', 'Contemporary', 'Seafood', 'European', 'Vegetarian Friendly']",4.5
+R577,Spencer - Smoked Soul,"['Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R578,Casa del Ramen,"['Chinese', 'Japanese', 'Soups', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R579,Valentino Vintage Restaurant,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R580,La Risacca 2,"['Italian', 'Seafood', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R581,Pescato E Mangiato,"['Italian', 'Seafood', 'Mediterranean', 'Gluten Free Options']",4.0
+R582,Sciuscia,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R583,Ristorante Alla Cadrega,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R584,Giardino dei Segreti,"['Italian', 'Seafood', 'Mediterranean', 'Barbecue']",4.0
+R585,4cento,"['Mediterranean', 'Italian', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R586,Cafe Gorille,"['Italian', 'French', 'International', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R587,Zibo Cuochi Itineranti,"['Italian', 'Mediterranean', 'Street Food', 'Vegetarian Friendly']",4.5
+R588,7 Luppoli - Birra E Cucina,"['Italian', 'Bar', 'Barbecue', 'Pub', 'Vegetarian Friendly']",4.0
+R589,Ristorante Greco Akropolis,"['Greek', 'Vegetarian Friendly']",4.0
+R590,Fiorenza Ristorante,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R591,Chef J,"['Chinese', 'Vegetarian Friendly']",4.0
+R592,La Bicocca,"['Seafood', 'Italian', 'Pizza', 'Mediterranean', 'European']",4.0
+R593,Cooperativa La Liberazione,"['Italian', 'Soups', 'Vegetarian Friendly']",4.0
+R594,Norin Caffe Bistro,"['Italian', 'Bar', 'Pizza', 'Cafe', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R595,Mexicali di viale Bligny,"['Mexican', 'Vegetarian Friendly']",4.0
+R596,Ristorante Giuliano a Milano,"['Italian', 'Seafood', 'International', 'Fusion', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R597,Osteria dei Vecchi Sapori,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",3.5
+R598,Panino Giusto San Babila,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R599,Colwyn Bay - Piadineria e Birreria Artigianali,"['Bar', 'Brew Pub', 'Pub', 'Vegetarian Friendly']",4.5
+R600,L'Angolo del Rocca,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.5
+R601,Vegan World,"['American', 'African', 'International', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R602,T'a Milano,"['Italian', 'Mediterranean', 'European', 'Contemporary', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R603,Mandarin Bar & Bistrot,"['Bar', 'Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R604,Gastronomia Yamamoto,"['Japanese', 'Delicatessen', 'Vegetarian Friendly']",4.5
+R605,Il Montalcino,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R606,Blitz,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R607,La Maniera di Carlo,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.5
+R608,al Sorriso,"['Italian', 'Seafood', 'Mediterranean']",4.5
+R609,Le Api Osteria,"['Italian', 'Vegetarian Friendly']",4.5
+R610,L'Osteria Antichi Maestri,"['Italian', 'Bar', 'Gastropub']",4.5
+R611,Corey's Soul Chicken,['American'],4.5
+R612,Trattoria Casa Fontana . 23 Risotti,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R613,BabeK,"['Fast Food', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R614,Kandoo,"['Japanese', 'Seafood', 'Sushi', 'Soups', 'Fusion']",4.0
+R615,Chicken House,"['American', 'Pizza', 'Grill', 'Italian']",4.5
+R616,"Zaza Ramen, noodle bar & restaurant","['Japanese', 'Vegetarian Friendly', 'Vegan Options']",3.5
+R617,Il Cantico dei Sapori,"['Italian', 'Vegetarian Friendly']",4.5
+R618,Hoppy Fish,"['Brew Pub', 'Seafood', 'Pub', 'Street Food', 'Vegetarian Friendly']",4.5
+R619,La Cappelletta,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly']",3.5
+R620,Trattoria Piccolo Fumino,['Italian'],4.5
+R621,Fresco&Cimmino,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",3.5
+R622,Cumino Bistrot,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R623,Wicky's Wicuisine,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'International', 'Contemporary', 'Vegetarian Friendly']",4.5
+R624,Adulis Restaurant,"['African', 'Ethiopian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R625,Muddica,"['Italian', 'Seafood', 'Vegetarian Friendly']",4.0
+R626,Il Gusto di Virdis,['Italian'],4.5
+R627,I Capatosta,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R628,Kome,"['Japanese', 'Sushi', 'Fusion']",4.0
+R629,I Dodici Gatti,"['Italian', 'Pizza', 'European', 'Nepali', 'Mediterranean', 'Asian', 'Vegetarian Friendly']",4.0
+R630,Bello e Buono,"['Italian', 'Mediterranean', 'Delicatessen', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R631,Pizzeria Spontini,"['Pizza', 'Vegetarian Friendly']",3.5
+R632,Seafood Bar Garibaldi,"['Italian', 'Seafood']",4.0
+R633,Moya Sushi,"['Japanese', 'Seafood', 'Sushi', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R634,Briscola - Pizza Society,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",3.5
+R635,Acquasala,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R636,Pizzeria alla Fontana,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R637,Trattoria Ai Due Orsi,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Soups', 'International', 'Grill', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R638,VIVECA,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R639,Fiordiponti Monte Nero,"['Pizza', 'Street Food', 'Italian', 'Bar', 'Pub']",4.0
+R640,El Bechee,"['Italian', 'Mediterranean', 'Barbecue', 'European']",4.0
+R641,Ristorante La Roccia,"['Italian', 'Chinese', 'Japanese', 'Pizza', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R642,Divina Piadina - Piadineria Artigianale,"['Italian', 'Fast Food', 'Gastropub', 'Street Food', 'Vegetarian Friendly']",4.5
+R643,Trattoria Caprese,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R644,28 Posti,"['Italian', 'Mediterranean', 'European', 'Contemporary', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R645,Trame - Original Venetian Sandwiches,"['Italian', 'Fast Food', 'Vegetarian Friendly']",4.0
+R646,Al 91,"['Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R647,Osteria del Gambero Rosso,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R648,Hats-Off,"['Mexican', 'American', 'International']",4.0
+R649,Trattoria Milanese Dal 1933,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R650,Antica Marmeria di Mirko,"['Italian', 'Steakhouse', 'Mediterranean', 'Barbecue', 'European', 'Gluten Free Options']",4.0
+R651,Sorry Mama,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R652,San Filippo Neri,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R653,Ostello Bello,"['Italian', 'Bar', 'European', 'Pub', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R654,Viola,"['Italian', 'Mediterranean', 'Wine Bar', 'Vegetarian Friendly']",4.0
+R655,L'Agristorante,"['Italian', 'Mediterranean', 'Barbecue']",4.0
+R656,Trattoria Trombetta,"['Italian', 'European', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R657,Sakura,"['Japanese', 'Seafood', 'Sushi', 'Vegetarian Friendly']",4.0
+R658,Osteria Tajoli,['Italian'],4.0
+R659,Mo Puglia Bistrot,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R660,Moonlight92,"['Mediterranean', 'Vegetarian Friendly']",4.0
+R661,Uzbek,"['Russian', 'Uzbek', 'Vegan Options']",4.5
+R662,Leon d'Oro,"['Chinese', 'Japanese', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly']",4.0
+R663,Tara,"['Indian', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R664,Ristorante Greco Esperides,"['Mediterranean', 'Barbecue', 'European', 'Greek', 'Vegetarian Friendly']",4.0
+R665,Pianeta Luna,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R666,I Sapori del Mare,"['Italian', 'Seafood', 'Mediterranean']",4.0
+R667,Ristorante Controvento,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R668,Da Martino,"['Italian', 'Pizza', 'Mediterranean']",4.0
+R669,Shin Fusion Restaurant,"['Japanese', 'Sushi', 'Vegetarian Friendly']",4.0
+R670,Ristorante Belluccio's,"['Italian', 'Seafood', 'Mediterranean', 'Gluten Free Options']",4.0
+R671,La toscana di Tony,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R672,Ristorante Fairouz,"['Lebanese', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R673,Camparino in Galleria,"['Italian', 'Bar', 'Cafe']",4.0
+R674,Pizzeria Napoletana Daniele,"['Italian', 'Pizza', 'Vegetarian Friendly']",4.5
+R675,Starita Milano,"['Pizza', 'Vegetarian Friendly']",3.5
+R676,Pampa Gourmet,['Vegetarian Friendly'],4.0
+R677,Drogheria Milanese,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R678,Ramen Shop,"['Japanese', 'Vegetarian Friendly']",4.5
+R679,BhangraBar,"['Italian', 'Indian', 'Bar', 'International', 'Vegetarian Friendly', 'Vegan Options']",3.5
+R680,I Sapori di Giovy,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options', 'Vegan Options']",4.0
+R681,Temakinho Milan Magenta,"['Brazilian', 'Japanese', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Gluten Free Options']",3.5
+R682,Testina,"['Italian', 'European', 'Gastropub']",4.0
+R683,Ba-Ba Reeba,"['Seafood', 'Mediterranean', 'European', 'Spanish', 'Contemporary']",4.0
+R684,La tana del lupo,['Italian'],4.0
+R685,Al Mozzo,"['Pizza', 'Italian', 'Mediterranean', 'European', 'Gluten Free Options']",4.0
+R686,Osteria della Pasta e Fagioli,"['Italian', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R687,Giacomo Arengario,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",3.5
+R688,Skuisito La Bottega del Gusto,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R689,Ristorante Lucca,"['Mediterranean', 'Italian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R690,Trattoria Del Generale,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R691,Calaluna,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R692,Zen Express Ryukishin,"['Japanese', 'Vegetarian Friendly']",4.5
+R693,VersoVerde,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R694,Trattoria Il Cormorano,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R695,Ca' Turati,"['Italian', 'Cafe', 'Mediterranean', 'Healthy', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R696,Nagomi Japanese Restaurant,,4.5
+R697,Osteria del Corso,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R698,Bove's,"['Steakhouse', 'Barbecue', 'Grill', 'Wine Bar']",4.0
+R699,Noma29,"['American', 'Bar', 'Pub']",4.0
+R700,Ristorante Dalla Zia,"['Italian', 'Mediterranean', 'Barbecue']",4.0
+R701,Pizzeria dallo Zio,"['Pizza', 'Vegetarian Friendly']",4.0
+R702,Kiku,"['Japanese', 'Seafood', 'Sushi', 'Soups']",4.0
+R703,Pescaria,"['Italian', 'Seafood', 'Fast Food', 'Mediterranean']",3.5
+R704,Jin Yong,"['Middle Eastern', 'Vegetarian Friendly']",4.5
+R705,Al mercante,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R706,Pizzeria Piccola Ischia,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R707,Dream ristorante coreano,"['Asian', 'Korean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R708,Quack,['Italian'],4.5
+R709,Pavarotti Milano Restaurant Museum,"['Italian', 'Mediterranean', 'European']",4.0
+R710,Gelateria Apua,['Italian'],4.5
+R711,Madera Milano,"['Italian', 'Mediterranean', 'Bar', 'European', 'Vegetarian Friendly']",4.0
+R712,Little Kitchen,"['Italian', 'Seafood', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R713,Fu Asian Restaurant,"['Chinese', 'Japanese', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R714,Tatsu Ramen,"['Japanese', 'Vegetarian Friendly']",4.5
+R715,Eataly Milano Smeraldo,"['Italian', 'Pizza', 'Seafood', 'Fast Food', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",3.5
+R716,Alfredo Since 1964,,5.0
+R717,Ponte Rosso,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R718,Il Pesciolone,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Gluten Free Options']",4.0
+R719,La Pobbia 1850,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R720,El Paso De Los Toros,"['Latin', 'Barbecue', 'Central American', 'Steakhouse', 'Argentinean']",4.0
+R721,Il Priscio,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R722,Sabbia d'Oro,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R723,Rossopomodoro Milano San Babila,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R724,Japan Bistro,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Gluten Free Options']",4.5
+R725,Trussardi alla Scala,"['Italian', 'Mediterranean', 'European', 'Contemporary', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R726,72100 Ristorante Pugliese,"['Italian', 'Mediterranean']",4.0
+R727,Ai Giardini Paprika & Cannella,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R728,Osteria Qui Da Noi,"['Italian', 'Seafood', 'Mediterranean', 'Gluten Free Options', 'Vegetarian Friendly']",4.0
+R729,Smooy,"['Vegetarian Friendly', 'Gluten Free Options']",5.0
+R730,Il Baretto al Baglioni Restaurant,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R731,Ivan & Frank,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R732,Mastgood,"['Italian', 'Brew Pub', 'Pub', 'Street Food', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R733,Burgez,"['American', 'Fast Food']",4.5
+R734,La Corte di San Maurilio Ristorante Pizzeria,"['Seafood', 'Soups', 'Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R735,Tijuana Cafe 2.0,"['Latin', 'South American', 'Mexican']",4.0
+R736,Feel,"['Chinese', 'Japanese', 'Seafood', 'Sushi', 'Asian', 'Fusion', 'Vegetarian Friendly']",4.0
+R737,Trattoria Aurora,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R738,La Taverna del Borgo Antico,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R739,Anema e Cozze,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",3.5
+R740,Il Cerchio,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R741,Sol Levante,"['Japanese', 'Sushi']",4.5
+R742,Pizzeria Gourmet Lievita,"['Pizza', 'Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R743,Shannara 3,"['Italian', 'Mediterranean', 'Seafood', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R744,L'Uccellina,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",3.5
+R745,Ristorante Novecento,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R746,Amici Del Liberty,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.5
+R747,Il Ristorante,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Contemporary', 'Gluten Free Options', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R748,Horse Cafe,,4.5
+R749,MamaEster,"['Italian', 'Vegetarian Friendly']",4.0
+R750,Da Giuliano,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R751,City Life Self Service & Restaurant,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R752,VietnaMonAmour,"['Asian', 'Vietnamese', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",3.5
+R753,Taj Mahal,"['Indian', 'Asian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R754,Ristorante Yuebin (Yuebinlou),"['Chinese', 'Vegetarian Friendly']",4.5
+R755,Ratana,"['Italian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",3.5
+R756,La Forchetta,"['Italian', 'Pizza', 'Seafood']",4.0
+R757,CHIOSCO SQUADRE CALCIO,"['Italian', 'Fast Food', 'Vegetarian Friendly']",4.5
+R758,Viva,"['Italian', 'Seafood', 'Vegetarian Friendly']",4.5
+R759,Da Franco,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R760,Certe Notti,"['Italian', 'Mediterranean', 'European']",4.0
+R761,The Fish - Ristopescheria,"['Italian', 'Seafood', 'Mediterranean', 'European']",4.0
+R762,mashti take away persiano,"['Middle Eastern', 'Persian', 'Vegetarian Friendly', 'Halal', 'Vegan Options']",4.5
+R763,Ristorante Il Cestino,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",3.5
+R764,Caffe del Lupo,"['Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R765,Ramen House,"['Chinese', 'Japanese', 'Asian', 'Soups', 'Fusion', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R766,Galleria Meravigli Bistrot,"['Italian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R767,I Monelli Pizza,"['Italian', 'Pizza', 'Mediterranean']",4.5
+R768,Antico Ristorante Boeucc,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R769,L'Oste Italiano,"['Italian', 'Vegetarian Friendly']",4.0
+R770,Osteria delle Corti,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R771,Al Bacco,"['Italian', 'Mediterranean', 'Contemporary', 'Vegetarian Friendly']",4.0
+R772,AmaMi Ristorante,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.5
+R773,Pupurry,"['Italian', 'Mediterranean', 'Barbecue', 'Vegetarian Friendly']",4.0
+R774,Lo Zenzero,"['Seafood', 'Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R775,Mamma Farina,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R776,Oro Bianco,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R777,Ginmi,"['Asian', 'Korean', 'Vegetarian Friendly']",4.5
+R778,Kim Bar,"['Chinese', 'Asian', 'Vegetarian Friendly']",4.5
+R779,Bento Sushi Restaurant,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Vegetarian Friendly']",4.0
+R780,arcieri,"['Italian', 'Seafood', 'Mediterranean']",4.0
+R781,Luca e Andrea Cafe-Bar,"['Italian', 'Bar', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R782,La Terza Carbonaia,"['Italian', 'Pizza', 'Mediterranean', 'Barbecue']",4.0
+R783,Pizzeria Del 333,"['Italian', 'Pizza', 'Vegetarian Friendly']",4.5
+R784,La Cozzeria,"['Italian', 'Seafood', 'Gluten Free Options']",4.0
+R785,Signorvino,"['Italian', 'Mediterranean', 'Wine Bar', 'Vegetarian Friendly', 'Gluten Free Options']",3.5
+R786,Mare Mosso,"['Italian', 'Pizza', 'Seafood', 'Mediterranean']",4.0
+R787,La Scamperia,"['Italian', 'Mediterranean', 'Seafood', 'European']",4.0
+R788,Il Pasto Giusto Gnoccheria,"['Italian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R789,Pane e Tulipani,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R790,Il Vinaccio,['Wine Bar'],4.5
+R791,La Cantina di Manuela di Via Procaccini,"['Italian', 'Mediterranean', 'Wine Bar', 'Vegetarian Friendly']",4.0
+R792,Margy Burger,"['Italian', 'American', 'Fast Food']",4.0
+R793,Mozzarella e Basilico,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R794,Laboratorio di Pasticceria Loria,,5.0
+R795,Baia Chia,"['Italian', 'Seafood', 'Mediterranean']",4.0
+R796,Ugo Bar,"['Italian', 'Bar', 'Pub']",4.5
+R797,Inkanto - Autentica Cucina Peruviana,"['Peruvian', 'Seafood']",4.0
+R798,Tongs,"['Italian', 'Bar', 'Pub']",4.5
+R799,Oasi Giapponese,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Vegetarian Friendly']",4.0
+R800,Nozomi,"['Japanese', 'Asian', 'Soups', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R801,Impronta Birraia,,4.0
+R802,HANA Ristorante Coreano,"['Asian', 'Korean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R803,Lambiczoon,"['Italian', 'Bar', 'European', 'Pub', 'Vegetarian Friendly']",4.0
+R804,Il Calabrone 2,"['Italian', 'Pizza', 'Seafood', 'Vegetarian Friendly']",4.0
+R805,Pizzeria Partenopea,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R806,Terrazza Triennale,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",3.5
+R807,Antica Pizzeria Fiorentina,['Vegetarian Friendly'],4.0
+R808,Mythos,"['Mediterranean', 'Greek']",4.5
+R809,Al Peck,"['Italian', 'European', 'Delicatessen', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options', 'Vegan Options']",4.0
+R810,Sapori Della Persia,"['Middle Eastern', 'Persian', 'Vegetarian Friendly', 'Vegan Options', 'Halal']",4.0
+R811,Pepe e Sale,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",3.5
+R812,Giardino Nuovo,"['Chinese', 'Seafood', 'Vegetarian Friendly']",4.5
+R813,Bar Luce,"['Bar', 'Italian', 'Cafe', 'Vegetarian Friendly']",4.0
+R814,Majestic Cafe,"['Italian', 'Pizza', 'Cafe', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R815,Officina 12,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",3.5
+R816,Lon Fon,"['Chinese', 'Seafood', 'Asian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R817,Blow Out,"['Italian', 'Pizza']",4.5
+R818,Kobe 5,"['Chinese', 'Japanese', 'Sushi', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R819,Antica Trattoria Toscana Il Borghetto,"['Italian', 'Mediterranean', 'Barbecue']",4.0
+R820,La Scaletta,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R821,Jolly Due,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R822,Cucina del Toro,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R823,Pizzeria Prato Centenaro,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R824,La Darsena,"['Italian', 'Pizza', 'Seafood', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R825,da Marcone - trattoria conviviale,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R826,Jubin II,"['Chinese', 'Asian', 'Vietnamese', 'Vegetarian Friendly']",4.0
+R827,Pizzeria L'Ortiga,"['Italian', 'Pizza', 'Mediterranean']",4.0
+R828,Spontini - Duomo Mazzini,"['Pizza', 'Vegetarian Friendly']",4.0
+R829,Ristorante & Pizzeria La Barchetta,"['Pizza', 'Seafood', 'Italian', 'Vegetarian Friendly']",4.0
+R830,Cocopazzo,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options']",3.5
+R831,Riad Food Garden,"['Mediterranean', 'Italian', 'Vegetarian Friendly']",4.5
+R832,Terrazza Aperol,"['Italian', 'Vegetarian Friendly']",3.5
+R833,Osteria Casa Tua,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",3.5
+R834,Sun restaurant,"['Japanese', 'Sushi', 'Asian']",4.0
+R835,Roast Eat,['Italian'],4.0
+R836,La Posteria di Nonna Papera,"['Mediterranean', 'Italian', 'Vegan Options', 'Gluten Free Options']",4.0
+R837,Capriccio,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R838,Melaverde,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R839,Delifrance,"['French', 'Italian', 'Vegetarian Friendly']",4.0
+R840,Cookbook,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Gluten Free Options', 'Vegan Options']",4.0
+R841,Ristorante Bambu,"['Chinese', 'Japanese', 'Vegetarian Friendly']",4.5
+R842,Osteria La Luna Piena,"['Seafood', 'Italian', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R843,Ristorante Pizzeria La Ragazza,"['Seafood', 'Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R844,Woodstock 3,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R845,Osteria La Carbonaia,"['Italian', 'Mediterranean', 'Barbecue']",4.0
+R846,Ristorante Rembrandt,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R847,Osteria Delizie del Mare,"['Italian', 'Seafood', 'Mediterranean']",4.0
+R848,Il Paiolo,"['Italian', 'Seafood', 'Mediterranean']",4.0
+R849,Alessandro Borghese - Il Lusso della Semplicita,"['Italian', 'Mediterranean', 'Wine Bar']",4.0
+R850,Osteria Naviglio Grande,"['Italian', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R851,Al Pesciolino,"['Italian', 'Seafood', 'Mediterranean']",4.0
+R852,Osteria Dal Verme,"['Italian', 'Vegetarian Friendly']",4.0
+R853,Il Panzerotto di Ettore,,4.5
+R854,L'Isolotto,"['Italian', 'Seafood', 'Mediterranean']",4.0
+R855,Da Giacomo,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R856,Yum - Taste of the Philippines,"['Filipino', 'International', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R857,Kamii,['Vegetarian Friendly'],4.0
+R858,Briciole,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R859,BQ Birra Artigianale di Qualita,"['Bar', 'Pub']",4.5
+R860,Peck Italian Bar,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R861,Architorta Caffe Bistrot,"['Italian', 'Vegetarian Friendly']",4.5
+R862,Gennaro Esposito Milano,"['Seafood', 'Italian', 'Pizza', 'Vegetarian Friendly']",4.0
+R863,Bebel,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R864,SUSHIMI - Pirelli,"['Japanese', 'Seafood', 'Fast Food', 'Sushi', 'Asian', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R865,Trattoria La Colonna,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R866,Cantinetta belle donne,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R867,Gavroche,['Mediterranean'],4.0
+R868,Pizzeria Americ,"['Pizza', 'Vegetarian Friendly']",4.0
+R869,Paninoteca,"['Italian', 'Vegetarian Friendly']",4.5
+R870,Al Pizzetta,"['Italian', 'Pizza', 'Mediterranean']",4.5
+R871,LA FETTUNTA,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R872,Ristorante Cinese Di Jin Yun Fang,"['Chinese', 'Seafood', 'Vegetarian Friendly']",4.5
+R873,"Trattoria ""Amici Miei""","['Italian', 'European']",3.5
+R874,Grissinificio Edelweiss,,4.5
+R875,Harukasushi Milano,"['Japanese', 'Seafood', 'Sushi', 'Fusion', 'Vegetarian Friendly']",4.0
+R876,Non Perdiamoci Di Vista - Caffe&Bistro,"['Italian', 'Seafood', 'Mediterranean']",4.5
+R877,Retro' Gusto,"['Mediterranean', 'Italian', 'Seafood', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R878,Osteria del Treno,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R879,Ciripizza,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R880,Tartufi&Friends,"['Italian', 'Mediterranean', 'European', 'Delicatessen', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R881,BIOit,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R882,Bon Wei,"['Chinese', 'Asian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R883,Fuku Jima,"['Japanese', 'Sushi', 'Fusion', 'Vegetarian Friendly']",4.0
+R884,Ristorante SottoSopra,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R885,Alla Cucina delle Langhe,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",3.5
+R886,I Segreti di Pulcinella,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R887,Wafu,"['Japanese', 'Sushi', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R888,Mad Sandwich,['Brew Pub'],4.5
+R889,Bottega Mascadelli,"['Pizza', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R890,Cafe de Ville,"['Cafe', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R891,Trita,"['American', 'Fast Food']",4.0
+R892,Bellavista Cafe,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R893,Niko Niko Ramen & Sake,"['Japanese', 'Bar', 'Fast Food', 'Pub', 'Vegetarian Friendly']",4.0
+R894,Umami,,4.5
+R895,Pacifico,"['Peruvian', 'Latin', 'Seafood', 'South American', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R896,Sushi B,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Fusion']",4.0
+R897,Veranda,"['Russian', 'Soups', 'Eastern European', 'Ukrainian', 'Barbecue']",4.0
+R898,Il Panino,"['Italian', 'Fast Food', 'Street Food', 'Vegetarian Friendly']",5.0
+R899,Mercato Del Pesce,"['Italian', 'Seafood', 'Mediterranean', 'European']",4.0
+R900,Perla d'Oro - piazza grandi,"['Chinese', 'Japanese', 'Seafood', 'Sushi', 'Asian', 'Fusion']",4.0
+R901,Piscinin,['Italian'],4.5
+R902,Sophia's Restaurant,"['Italian', 'Mediterranean', 'Contemporary', 'Vegetarian Friendly']",4.0
+R903,Saketeca Go,"['Japanese', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R904,Jumping,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R905,Gli Artigiani della Pizza,"['Italian', 'Pizza', 'Vegetarian Friendly']",4.5
+R906,Potafiori,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",3.5
+R907,Impressione Chongqing,"['Chinese', 'Asian']",4.5
+R908,Kapuziner,"['German', 'Austrian', 'Bar', 'Barbecue', 'European', 'Pub', 'Central European']",3.5
+R909,Spoon,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Fusion', 'Vegetarian Friendly']",4.0
+R910,Fuorimano OTBP,"['Bar', 'Pizza', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R911,Ristorante Pizzeria Mio,"['Italian', 'Seafood', 'Argentinean']",4.0
+R912,Endo,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Soups', 'Vegetarian Friendly']",4.0
+R913,Burbee - Artisanal burger & beer,"['American', 'Bar', 'Fast Food', 'Barbecue']",4.0
+R914,Martini Bistrot Dolce&Gabbana,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R915,El Galet,"['Italian', 'Bar', 'Barbecue', 'Brew Pub']",3.5
+R916,Acqua e Sale 2,['Seafood'],4.0
+R917,212 Hamburger & Delicious,"['American', 'Fast Food']",4.0
+R918,MI - Cucina di Confine,"['Chinese', 'Seafood', 'Asian', 'Fusion', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R919,Osteria del Sognatore,"['Italian', 'Seafood', 'Vegetarian Friendly']",4.0
+R920,Hua Cheng,"['Chinese', 'Vegetarian Friendly']",4.0
+R921,Love It Real Italian Food,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R922,Tagliabrodo,"['Italian', 'Mediterranean', 'Soups', 'Fusion', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R923,Osteria Ma.Si.,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R924,Pogue Mahone's,"['Irish', 'Bar', 'Pub']",4.0
+R925,Ristorante Acqua Pazza,"['Italian', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R926,Il Faro Ristorante,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Soups']",4.0
+R927,Thursday Pizza,"['Pizza', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R928,La Scalea,"['Italian', 'Pizza']",4.5
+R929,Ristorante Bombay,"['Indian', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R930,Universo Vegano,"['Italian', 'Fast Food', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R931,Ribs and Beer,"['American', 'Steakhouse', 'Barbecue']",3.5
+R932,Cirispaccio,,4.5
+R933,Erba Brusca,"['Italian', 'Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",3.5
+R934,MU Italian Finest Burger,['Fast Food'],4.0
+R935,La Tienda de Juan,['Spanish'],5.0
+R936,Pizzeria del Ticinese,"['Italian', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R937,Gin Rosa,"['Italian', 'Cafe', 'Mediterranean']",4.0
+R938,MilanCore,"['Korean', 'Contemporary', 'Diner', 'Vegetarian Friendly', 'Gluten Free Options']",4.5
+R939,Dry,"['Italian', 'Bar', 'Pizza', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",3.5
+R940,La Tradizionale,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'International', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",3.5
+R941,Olio - Cucina fresca,,4.5
+R942,Vertical,"['Italian', 'European', 'Wine Bar']",4.5
+R943,Vinosfera,"['Italian', 'Mediterranean', 'Wine Bar', 'Vegetarian Friendly']",4.5
+R944,L'Altro Luca e Andrea,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",3.5
+R945,Mulligans,"['Irish', 'Bar', 'Pub']",4.0
+R946,Sarla,"['Indian', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Halal', 'Gluten Free Options']",4.0
+R947,Rovello 18,"['Italian', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R948,Maison Touareg,"['Moroccan', 'Mediterranean', 'Contemporary', 'Arabic', 'Vegetarian Friendly']",5.0
+R949,Il Ciliegino,"['Italian', 'Pizza', 'Seafood', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R950,Skuisito,"['Italian', 'American', 'Steakhouse', 'Mediterranean', 'European', 'Wine Bar', 'Gluten Free Options']",4.0
+R951,Carmel,"['Italian', 'Pizza', 'Mediterranean', 'Middle Eastern', 'Israeli', 'Vegetarian Friendly', 'Vegan Options', 'Kosher']",4.0
+R952,Ristorante Riviera,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",3.5
+R953,Brezzamarina,,4.5
+R954,Olmetto,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.5
+R955,Mieru Mieru,"['Italian', 'Seafood', 'Vegetarian Friendly']",4.5
+R956,Meglio Puglia,['Vegetarian Friendly'],4.5
+R957,Ristorante Soho Milano,"['Seafood', 'Mediterranean']",4.5
+R958,Beershow,"['American', 'Brew Pub', 'Pub', 'Italian', 'Vegetarian Friendly']",4.5
+R959,Solo Pizza,"['Pizza', 'Vegetarian Friendly']",3.5
+R960,Pastai in Darsena,"['Italian', 'Mediterranean']",4.0
+R961,Capra e Cavoli,"['Mediterranean', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",3.5
+R962,Orto - erbe e cucina,"['Italian', 'Mediterranean', 'European', 'Vegan Options', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R963,mani in pasta,"['Italian', 'Pizza', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R964,Ristorante e Pizzeria Da Mimmo,"['Italian', 'Vegetarian Friendly']",4.0
+R965,La Casa Iberica,"['Mediterranean', 'European', 'Spanish', 'Vegetarian Friendly']",4.0
+R966,Momento,"['Italian', 'Seafood', 'International', 'Mediterranean']",4.5
+R967,Primo Gusto Milano,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.5
+R968,deep gold milano,"['Italian', 'Cafe', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R969,Catalana,['Mediterranean'],4.5
+R970,Brutti di Mare,"['Italian', 'Seafood', 'Gluten Free Options']",4.0
+R971,America Graffiti Diner Restaurant Milano San Siro,"['Italian', 'American', 'Fast Food', 'Barbecue', 'Diner', 'Central American', 'Vegetarian Friendly', 'Vegan Options']",3.5
+R972,La Tartina,"['Italian', 'Bar', 'European', 'Wine Bar', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R973,Ristorante Da Berti,"['Italian', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R974,Basara Milano Corso Italia,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Fusion', 'Vegetarian Friendly']",4.0
+R975,Al Sale Grosso,"['Italian', 'Seafood', 'Mediterranean', 'European']",4.0
+R976,Osteria di Porta Cicca,"['Italian', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R977,Cocotte Milano,"['Italian', 'French', 'Cafe', 'European', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.0
+R978,B-floor,"['Italian', 'Pizza', 'Mediterranean', 'European', 'Vegetarian Friendly']",3.5
+R979,Moscow Mule Bar,['Bar'],4.5
+R980,Bacicha,"['Steakhouse', 'Italian', 'Pizza', 'Mediterranean', 'Barbecue', 'European', 'Argentinean', 'South American']",4.0
+R981,NaBi Natura Biologica,"['Cafe', 'Healthy', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R982,Dinky,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'European', 'Soups', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R983,Belledonne Cafe,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.5
+R984,PISCO,"['Italian', 'Seafood', 'Mediterranean', 'Gluten Free Options']",4.0
+R985,Kitchen,"['Italian', 'Mediterranean', 'European', 'Healthy', 'Seafood', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R986,L’Ov Milano,"['Italian', 'American', 'Bar', 'European', 'Vegetarian Friendly']",4.0
+R987,Pizzeria Cupido,"['Pizza', 'Vegetarian Friendly']",4.5
+R988,Osteria Mare in Pasta,"['Italian', 'Seafood', 'Mediterranean']",4.0
+R989,Malu Ristorante & Winebar,"['Italian', 'Seafood', 'Mediterranean', 'Wine Bar']",4.0
+R990,212 Hamburger & Delicious,"['American', 'Bar', 'Fast Food', 'Pub']",4.0
+R991,Zero Contemporary Food,"['Japanese', 'Seafood', 'Sushi', 'Asian', 'Contemporary']",4.0
+R992,Volta Street,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.5
+R993,La Locanda Dell Amore,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly', 'Gluten Free Options']",4.0
+R994,il Trullo,"['Italian', 'Pizza', 'Seafood', 'Mediterranean', 'Vegetarian Friendly']",4.0
+R995,La Foglia,"['Italian', 'Seafood', 'Mediterranean', 'European', 'Vegetarian Friendly']",4.0
+R996,Ristorante Giannino,"['Italian', 'International', 'European', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R997,Salad Me Cafe',"['Italian', 'Cafe', 'Mediterranean', 'Vegetarian Friendly', 'Vegan Options']",4.5
+R998,La Cantina di Manuela,"['Italian', 'Mediterranean', 'Wine Bar', 'Vegetarian Friendly']",4.0
+R999,Rangoli,"['Indian', 'Asian', 'Vegetarian Friendly', 'Vegan Options', 'Gluten Free Options']",4.0
+R1000,Donna Titina,"['Italian', 'Pizza', 'Mediterranean', 'Seafood', 'Grill', 'Vegetarian Friendly', 'Vegan Options']",3.5
